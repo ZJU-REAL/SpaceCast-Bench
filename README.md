@@ -112,3 +112,9 @@ This benchmark builds on [ScanNet](https://www.scan-net.org/) and [ScanNet++](ht
 ## ⭐️ Citation
 
 If you find SpaceCast-Bench useful, please consider citing our work:
+
+## License
+
+The evaluation code is released under the [Apache License 2.0](LICENSE).
+This license does not cover the ScanNet or ScanNet++ data, which remain
+subject to their respective terms of use.

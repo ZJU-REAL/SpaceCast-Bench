@@ -8,6 +8,8 @@ dynamic = ["version"]
 description = "SpaceCast-Bench HF/Parquet evaluation and image-embedded export"
 readme = "README.md"
 requires-python = ">=3.9"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 dependencies = ["datasets>=4.5,<5", "pyarrow>=21", "Pillow>=11", "tqdm>=4.66"]
 
 [project.optional-dependencies]

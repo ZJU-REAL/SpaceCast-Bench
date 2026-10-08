@@ -1,0 +1,8 @@
+# Scoring and evaluation through an OpenAI-compatible or the Anthropic API (Python >= 3.9).
+# Same as `pip install '.[api]'`.
+datasets>=4.5,<5
+pyarrow>=21
+Pillow>=11
+tqdm>=4.66
+openai>=1.82,<3
+anthropic>=0.40

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=77,<85"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spacecast-bench-eval"
+dynamic = ["version"]
+description = "SpaceCast-Bench HF/Parquet evaluation and image-embedded export"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["datasets>=4.5,<5", "pyarrow>=21", "Pillow>=11", "tqdm>=4.66"]
+
+[project.optional-dependencies]
+api = ["openai>=1.82,<3", "anthropic>=0.40"]
+
+[project.scripts]
+spacecast-evaluate = "spacecast_eval.run:main"
+spacecast-score = "spacecast_eval.scoring:main"
+spacecast-export = "spacecast_eval.export:main"
+
+[tool.setuptools.dynamic]
+version = {attr = "spacecast_eval.__version__"}
+
+[tool.setuptools.packages.find]
+include = ["spacecast_eval*"]

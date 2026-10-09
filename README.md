@@ -113,3 +113,15 @@ This benchmark builds on [ScanNet](https://www.scan-net.org/) and [ScanNet++](ht
 ## ⭐️ Citation
 
 If you find SpaceCast-Bench useful, please consider citing our work:
+
+```bibtex
+@misc{li2026spacecastbenchevaluatingpredictivespatial,
+      title={SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models},
+      author={Hongxing Li and Jinyue Su and Dingming Li and Wenqi Zhang and Weiming Lu and Jun Xiao and Yueting Zhuang and Yongliang Shen},
+      year={2026},
+      eprint={2610.12402},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.12402},
+}
+```

@@ -4,7 +4,7 @@ SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Mode
 
 <div align="center">
   <p>
-    <a href="https://arxiv.org/pdf/2610.12402" target="_blank">
+    <a href="https://arxiv.org/abs/2610.12402" target="_blank">
       <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SpaceCast--Bench-red?logo=arxiv" height="20" />
     </a>
     <a href="https://huggingface.co/datasets/hongxingli/SpaceCast-Bench" target="_blank">
@@ -41,7 +41,7 @@ Staged supervised fine-tuning on our generated data raises Qwen3-VL-4B from **34
 
 ## 🎉 News
 
-- **[2026/10/09]** Our [paper](https://arxiv.org/pdf/2610.12402) is now available on arXiv.
+- **[2026/10/09]** Our [paper](https://arxiv.org/abs/2610.12402) is now available on arXiv.
 
 - **[2026/10/08]** We release our [code](https://github.com/ZJU-REAL/SpaceCast-Bench) and [dataset](https://huggingface.co/datasets/hongxingli/SpaceCast-Bench) for SpaceCast-Bench.
 

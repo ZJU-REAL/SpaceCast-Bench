@@ -7,6 +7,9 @@ SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Mode
     <a href="https://arxiv.org/abs/2610.12402" target="_blank">
       <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SpaceCast--Bench-red?logo=arxiv" height="20" />
     </a>
+    <a href="https://zju-real.github.io/SpaceCast-Bench/" target="_blank">
+      <img alt="Website" src="https://img.shields.io/badge/🌎_Website-SpaceCast--Bench-blue.svg" height="20" />
+    </a>
     <a href="https://huggingface.co/datasets/hongxingli/SpaceCast-Bench" target="_blank">
       <img alt="SpaceCast-Bench Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-SpaceCast--Bench-ffc107" height="20" />
     </a>

@@ -1,0 +1,13 @@
+.figure-button{display:block;width:100%;border:0;padding:0;background:transparent;cursor:zoom-in}
+.figure-button img{display:block;width:100%;height:auto}
+.publication-authors{line-height:1.7}.publication-links{margin-top:12px}
+.content p{text-align:justify}
+
+
+a:focus-visible,button:focus-visible{outline:3px solid #3273dc;outline-offset:4px}
+dialog{width:96vw;max-width:1800px;max-height:94vh;border:0;border-radius:8px;padding:55px 20px 20px}dialog::backdrop{background:#000b}dialog img{width:100%;height:auto;display:block}.close{position:sticky;top:0;float:right;margin-top:-40px;border:0;border-radius:5px;background:#363636;color:white;padding:8px 16px;cursor:pointer}
+@media(max-width:768px){.publication-title{font-size:2rem!important}.hero-body{padding:2rem 1.25rem}.content p{text-align:left}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+
+#citation pre{white-space:pre-wrap;overflow-wrap:anywhere;text-align:left}
